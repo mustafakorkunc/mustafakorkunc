@@ -46,7 +46,7 @@ I am an Electrical-Electronics Engineering student at ATU with an active enginee
 <table>
   <tr>
     <td>
-      <h3>🔬 <a href="https://github.com/mustafakorkunc/control-systems-simulink">control-systems-simulink</a></h3>
+      <h3>🔬 <a href="https://github.com/mustafakorkunc/dc-motor-pid-control">dc-motor-pid-control</a></h3>
       <p><strong>DC Motor PID Speed & Position Control Simulation Suite</strong></p>
       <p>
         An academic-grade analytical modeling, simulation, and frequency-domain stability verification suite for an armature-controlled Direct Current (DC) servomotor under closed-loop PID control.
@@ -58,8 +58,8 @@ I am an Electrical-Electronics Engineering student at ATU with an active enginee
         <li><strong>Disturbance Rejection</strong>: Step load torque disturbance rejection demonstrating zero steady-state droop.</li>
       </ul>
       <p>
-        <a href="https://github.com/mustafakorkunc/control-systems-simulink">
-          <img src="https://img.shields.io/badge/View_Project-control--systems--simulink-blue?style=for-the-badge&logo=github" alt="View Project" />
+        <a href="https://github.com/mustafakorkunc/dc-motor-pid-control">
+          <img src="https://img.shields.io/badge/View_Project-dc--motor--pid--control-blue?style=for-the-badge&logo=github" alt="View Project" />
         </a>
       </p>
     </td>
