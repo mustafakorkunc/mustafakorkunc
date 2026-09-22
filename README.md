@@ -21,7 +21,7 @@ I am an engineering student interested in how mathematical models translate into
 
 ### Featured Projects
 
-#### ⚔️ [DeArmour](https://github.com/mustafakorkunc/asus-dearmour)
+#### ⚔️ [DeArmour](https://github.com/mustafakorkunc/asus-dearmour) *(Public Beta)*
 > *Open-source Windows driver extraction and deployment utility for ASUS laptops.*
 - Scans and carves bare-metal INF/SYS/CAT driver payloads out of bloated OEM installer wrappers (`SetupLdr`, `AsusSetup`, Inno Setup).
 - Direct integration with official ASUS Support REST API endpoints and BIOS registry hardware detection.
